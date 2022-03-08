@@ -2,7 +2,7 @@
 
 Challenge made by goncy (https://github.com/goncy)
 
-Simple todo-list that covers most of the bascis functionalities.
+Simple todo-list that covers most of the basic functionalities.
 
 Installation:
 
